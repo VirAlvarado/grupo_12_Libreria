@@ -9,3 +9,16 @@ Integrantes del proyecto:
 
 Cristian Piuca: Hola, me llamo Cristian, tengo 26 años, el año pasado me intereso entrar al mundo de la programación y este año lo pude cumplir, me gusta mucho el curso
 y espero poder seguir aprendiendo dia a dia mas sobre esto.
+
+
+
+
+
+
+Paginas referentes:
+
+https://libreriaaguilar.com.ar/[Para los colores. Colores pastele]
+https://www.tematika.com/checkout/cart/[Carrito de compras]
+https://www.figma.com/community/file/1064457108871879363[Login y Register]
+https://www.cuspide.com/[Para el Home]
+https://libreriaaguilar.com.ar/[Para el Home]
