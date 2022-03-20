@@ -10,8 +10,9 @@ Integrantes del proyecto:
 Cristian Piuca: Hola, me llamo Cristian, tengo 26 años, el año pasado me intereso entrar al mundo de la programación y este año lo pude cumplir, me gusta mucho el curso
 y espero poder seguir aprendiendo dia a dia mas sobre esto.
 
-
-
+Juana Virginia Alvarado: Hola, Soy Virginia, "Vir", tengo 27 años y soy de Tucumán.
+Previo a la pandemia estudiaba artes, un par de amigos programadores me hicieron interesar y me sugirieron incursionar en la progamación. El curso me encanta hasta el momento, aunque me esté llevando un poco más de tiempo y espero poder sacar el mayor provecho posible al contenio que se nos brinda. 
+^-^
 
 
 
